@@ -1,0 +1,6 @@
+Fix issues resulting from splitting asset into definition and instance.
+
+Same with holders for assets.
+
+
+When we render new assets into a scene we need to make sure we are tracking/re-rendering their held assets
